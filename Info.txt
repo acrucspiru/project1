@@ -1,0 +1,1 @@
+To install, copy this folders contents to the Foxit Reader install directory.
